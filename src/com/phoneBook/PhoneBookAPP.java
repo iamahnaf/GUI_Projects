@@ -78,7 +78,7 @@ public class PhoneBookAPP implements WindowListener, ActionListener{
     }
     ArrayList <PhoneBook> ph=new ArrayList<>();
     void memory(){
-        inffile=new File("E:\\UIU\\UIU CSE\\3rd Semester\\OP lab\\JAVA\\GUIassignment\\src\\Information.txt");
+        inffile=new File("data.txt");  //Project Folder e File, not in src
         try {
             ss=new Scanner(inffile);
         } catch (FileNotFoundException e) {
