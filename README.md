@@ -1,4 +1,4 @@
-#  OOP  Projects
+# Java Object Oriented Programming course Projects
 
 This repository contains three GUI-based Java projects built as part of my Object-Oriented Programming (OOP) course. All projects use Java AWT for the user interface and demonstrate various OOP principles through interactive games and applications.
 
