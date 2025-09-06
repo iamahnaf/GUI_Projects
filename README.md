@@ -1,12 +1,12 @@
-# 🎮 OOP GUI Projects
+#  OOP  Projects
 
 This repository contains three GUI-based Java projects built as part of my Object-Oriented Programming (OOP) course. All projects use Java AWT for the user interface and demonstrate various OOP principles through interactive games and applications.
 
 ---
 
-## 📁 Projects Overview
+##  Projects Overview
 
-### 1. 🚪 Guessing Treasure hunt
+### 1. Guessing Treasure hunt
 
 A fun door-guessing game where the player has 3 lives to find the hidden treasure behind one of three doors.  
 **Twist:** After each wrong guess, the treasure randomly changes its position to another door, making it more challenging.
@@ -18,7 +18,7 @@ A fun door-guessing game where the player has 3 lives to find the hidden treasur
 
 ---
 
-### 2. 📱 Phone Book Manager (with Edit Distance)
+### 2.  Phone Book Manager (with Edit Distance)
 
 A simple contact management app that allows users to:
 - 🔍 Search names using approximate matching via **edit distance**
@@ -48,7 +48,7 @@ A 2-player classic **Tic Tac Toe** game with a graphical interface.
 
 ---
 
-## 🧠 Concepts Applied
+##  Concepts Applied
 
 - Inheritance & Interfaces (e.g., `ActionListener`, `WindowListener`)
 - GUI programming with AWT
